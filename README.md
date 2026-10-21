@@ -1,4 +1,4 @@
-# Capstone Project 3 — Green Taxi Batch & Streaming Pipeline
+# Green Taxi Batch & Streaming Pipeline
 
 ## 1. Deskripsi Project
 
